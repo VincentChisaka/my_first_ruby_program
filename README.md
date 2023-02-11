@@ -2,7 +2,7 @@
 This is just my first program - to test my skills in Ruby.
 
 # Desription
-It's a program that inputs one's details as code in sentence form and outputs the data.
+It's a program that reads a user's input and correct his/her capitalization. The user can provide an infinite range of input.
 
 # Author
 Chisaka Vincent
